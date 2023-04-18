@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+title: QT示例程序文档
+
+show_downloads: false
+
+
+github:
+  is_project_page: false
+
