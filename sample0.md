@@ -25,7 +25,7 @@ layout: default
 
 ![不同“基类”的差别](image/0-2.png)
 
-- <font color=#4e70be>**基类**</font>有QMainWindow, QDialog, QWidget可选
+- **基类**有QMainWindow, QDialog, QWidget可选
 - QWidget是其他两个类的基类, 较为通用
 - QMainWindow是有菜单栏的窗口
 - QDialog显示一个临时的对话框
