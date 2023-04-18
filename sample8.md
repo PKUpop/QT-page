@@ -68,3 +68,7 @@ https://blog.csdn.net/l09711/article/details/7315979
 ![生成一个QStackedWidget类的实例对象](image/8-6.png)
 
 这里利用了之前学的connect函数，在 QListWidget对象切换列表项的时候，发出信号并被QStackedWidget对象捕获，实行对应的槽函数（这里为显示对应的组件/页面）
+
+### 本示例代码下载链接
+
+[代码下载链接](https://github.com/PKUpop/QT-page/raw/main/code/8.zip)

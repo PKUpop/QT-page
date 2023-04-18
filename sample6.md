@@ -4,6 +4,8 @@ layout: default
 
 ## 示例6 编辑槽映射
 
+[讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_6.mp4)
+
 - 信号槽自动关联中，QtCreator会自动生成槽函数，但也需要自己写槽函数内容
 - 信号槽手动关联中，利用connect函数允许随意设置信号和槽的关联，但需要在类的初始化阶段写相应代码，比较麻烦
 
@@ -51,3 +53,7 @@ layout: default
 ![set connect3](image/6-6.png)
 
 **在这里，过程都发生在btModify的槽函数中,这是MyWidget类的成员函数，所以当Dialog2对话框返回Accepted时,槽函数执行close()，主页面MyWidget也随之关闭。**
+
+### 本示例代码下载链接
+
+[代码下载链接](https://github.com/PKUpop/QT-page/raw/main/code/6.zip)

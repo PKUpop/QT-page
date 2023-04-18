@@ -6,7 +6,10 @@ layout: default
 
 ## 示例0 创建Qt工程
 
+[讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_0.mp4)
+
 本示例演示如何创建一个简单的Qt工程
+
 - 基类的选择与区别
 - Qt工程的文件结构
 - 各种文件的代码解读
@@ -77,3 +80,6 @@ layout: default
 
 **属性栏修改组件后myhellodialog.ui内容的变化**
 ![修改组件内容(通过属性栏)](image/0-11.png)
+
+
+

@@ -60,3 +60,7 @@ QColorDialog为Qt中的颜色对话框类设置Qt::red为默认选择的颜色
 **向导对话框效果**
 
 ![向导对话框结果](image/7-12.png)
+
+### 本示例代码下载链接
+
+[代码下载链接](https://github.com/PKUpop/QT-page/raw/main/code/7.zip)

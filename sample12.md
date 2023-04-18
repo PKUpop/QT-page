@@ -46,3 +46,7 @@ QSlider类是QAbstractSlider类的子类，QSlider类又增加了刻度可选功
 
 - https://doc.qt.io/qt-5/qdial.html 
 - https://doc.qt.io/qt-5/qslider.html
+
+### 本示例代码下载链接
+
+[代码下载链接](https://github.com/PKUpop/QT-page/raw/main/code/12.zip)

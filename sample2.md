@@ -4,6 +4,8 @@ layout: default
 
 ## 示例2 大小位置修改
 
+[讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_2.mp4)
+
 本示例演示如何修改窗口大小、位置，并介绍qDebug
 
 - 如何修改窗口大小、位置
@@ -27,3 +29,7 @@ layout: default
 **要求的调试信息在控制台中打印效果如下**
 
 ![要求的调试信息在控制台中打印效果](image/2-3.png)
+
+### 本示例代码下载链接
+
+[代码下载链接](https://github.com/PKUpop/QT-page/raw/main/code/2.zip)

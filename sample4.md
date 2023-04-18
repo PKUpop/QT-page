@@ -5,6 +5,8 @@ layout: default
 
 ## 示例4 信号和槽的自动关联
 
+[讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_4.mp4)
+
 本示例将首先介绍Qt中信号槽机制，并展示如何通过设计界面，自动实现信号和槽的关联
 
 ### 1 Qt中的信号槽机制
@@ -57,3 +59,7 @@ layout: default
 可以看到点击newButton后 MyWidget显示的文本按照槽函数的设置进行了改变
 
 ![槽函数运行结果](image/4-6.png)
+
+### 本示例代码下载链接
+
+[代码下载链接](https://github.com/PKUpop/QT-page/raw/main/code/4.zip)

@@ -5,6 +5,8 @@ layout: default
 
 ## 示例1 创建窗口
 
+[讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_1.mp4)
+
 本示例演示如何创建一个简单的Qt窗口
 
 - 不用界面文件创建窗口
@@ -70,3 +72,7 @@ ui界面如下，可以鼠标选择一些控件然后设计窗口，设计完毕
 在main函数里就可以直接使用定义好的MyDialog1类。
 
 ![界面文件使用](image/1-11.png)
+
+### 本示例代码下载链接
+
+[代码下载链接](https://github.com/PKUpop/QT-page/raw/main/code/1.zip)

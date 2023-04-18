@@ -6,6 +6,8 @@ layout: default
 
 ## 示例3 模态与非模态对话框
 
+[讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_3.mp4)
+
 本示例演示对话框的模态与非模态设置。
 
 ### 1 模态对话框
@@ -54,3 +56,7 @@ layout: default
 ![设置结果](image/3-5.png)
 
 **注意：这里由于设置了dialog为模态对话框, 则关闭dialog之前不能与widget交互！！！**
+
+### 本示例代码下载链接
+
+[代码下载链接](https://github.com/PKUpop/QT-page/raw/main/code/3.zip)

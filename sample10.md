@@ -40,3 +40,7 @@ QCompleter能实现自动填充功能,方便用户输入, 一般和QLineEdit搭�
 ![QLineEdit6](image/10-6.png)
 
 ![QLineEdit7](image/10-7.png)
+
+### 本示例代码下载链接
+
+[代码下载链接](https://github.com/PKUpop/QT-page/raw/main/code/10.zip)

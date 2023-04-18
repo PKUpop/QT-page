@@ -5,6 +5,8 @@ layout: default
 
 ## 示例5 信号和槽的手动关联
 
+[讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_5.mp4)
+
 上一个示例通过设计界面的“转到槽”功能,	自动进行了信号和槽函数的关联，本示例将展示如何手动进行信号和槽之间的关联。
 
 ### 1 connect函数
@@ -33,3 +35,7 @@ layout: default
 点击按钮后执行槽函数弹出一个新的对话框
 
 ![result](image/5-3.png)
+
+### 本示例代码下载链接
+
+[代码下载链接](https://github.com/PKUpop/QT-page/raw/main/code/5.zip)
