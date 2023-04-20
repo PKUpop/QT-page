@@ -11,7 +11,7 @@ title: 22级样例1 基于QT的植物大战僵尸复刻
 
 ### 项目演示视频
 
-<a href="http://39.96.165.147/Projects/QT-video/project_0.mp4">
+<a href="http://39.96.165.147/Projects/QT-video/project_1.mp4">
     <img src="image/project1-preface.png">
 </a>
 
