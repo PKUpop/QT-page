@@ -165,3 +165,13 @@ private:
 - [示例10 常用输入框介绍](https://pkupop.github.io/QT-page/sample10)
 - [示例11 Spinbox和Datetime edit](https://pkupop.github.io/QT-page/sample11)
 - [示例12 Slider和Dial](https://pkupop.github.io/QT-page/sample12)
+
+
+### 5 22级样例目录
+
+本网页提供了4个22级样例QT作品，点击下列链接，访问具体文档。
+
+- [基于QT的植物大战僵尸复刻](https://pkupop.github.io/QT-page/project1)
+- [砰碰砰大乱斗](https://pkupop.github.io/QT-page/project2)
+- [基于QT的DDL管理器](https://pkupop.github.io/QT-page/project3)
+- [基于QT的办公协作软件](https://pkupop.github.io/QT-page/project4)
