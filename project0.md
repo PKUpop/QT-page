@@ -1,16 +1,22 @@
 ---
 layout: default
+title: 22级样例1 基于QT的植物大战僵尸复刻
 ---
 
 
 
-## 基于 qt 的植物大战僵尸复刻
+<!-- ## 基于 QT 的植物大战僵尸复刻 -->
 
 <!-- [项目演示视频链接](http://39.96.165.147/Projects/QT-video/project_0.mp4) -->
 
 ### 项目演示视频
 
-<video src="http://39.96.165.147/Projects/QT-video/project_0.mp4" onloadedmetadata="this.muted = true" playsinline autoplay muted loop controls></video>
+<a href="http://39.96.165.147/Projects/QT-video/project_0.mp4">
+    <img src="image/project1-preface.png" width="80%">
+</a>
+
+<!-- [项目演示视频链接](http://39.96.165.147/Projects/QT-video/project_0.mp4) -->
+
 
 ### 队伍成员
 
@@ -21,17 +27,18 @@ layout: default
 
 ### 功能介绍
 
-程序核心的目的在于利用qt内部的函数与类以及通过解包原版植物大战僵尸而获得的图片、音乐等素材进行对植物大战僵尸最基本的功能的复刻，按照结构而言，本程序可分为两个模块，分别为菜单模块和游戏主界面模块，以下将分别就这两部分进行说明。
+程序核心的目的在于利用QT内部的函数与类以及通过解包原版植物大战僵尸而获得的图片、音乐等素材进行对植物大战僵尸最基本的功能的复刻，按照结构而言，本程序可分为两个模块，分别为菜单模块和游戏主界面模块，以下将分别就这两部分进行说明。
 
 #### 菜单模块
 
-![](image/project1-1.png)
+<img src="image/project1-1.png" width="80%" />
 
-菜单模块中主要实现的功能包括：菜单按钮动效的实现，主菜单上所有按钮的反馈以及异形弹窗的实现。特别的，相较于传统qt程序，我们认为全异形弹窗是我们程序的一大亮点，整个程序内除了主窗口外，所有的弹窗全部都是以异形窗口且可任意拖拽的，这一点在菜单页面中尤为突出。
+
+菜单模块中主要实现的功能包括：菜单按钮动效的实现，主菜单上所有按钮的反馈以及异形弹窗的实现。特别的，相较于传统QT程序，我们认为全异形弹窗是我们程序的一大亮点，整个程序内除了主窗口外，所有的弹窗全部都是以异形窗口且可任意拖拽的，这一点在菜单页面中尤为突出。
 
 #### 游戏模块
 
-![](image/project1-2.png)
+<img src="image/project1-2.png" width="80%" />
 
 游戏模块基本实现了原版植物大战僵尸的所有功能，包括植物的种植、僵尸受击、植物受伤以及僵尸的各种动作变化等等，碍于时间关系，我们只实现了5种不同的植物和4种不同的僵尸，同时也只实现了一个关卡，但是程序本身具有良好的可扩展性，无论是加入新的植物，异或是增加新的关卡，操作都十分简单。
 
@@ -71,4 +78,6 @@ ShapedWindow是专用于新建异形窗口的自定义类，以QMainwindow为基
 
 ### 本项目代码下载链接
 
-[代码下载链接](https://github.com/YuIcy/PlantsVSZombies)
+<a href="https://github.com/YuIcy/PlantsVSZombies">
+    <img src="image/project1-github.png" width="80%">
+</a>
