@@ -167,7 +167,7 @@ private:
 - [示例12 Slider和Dial](https://pkupop.github.io/QT-page/sample12)
 
 
-### 5 22级样例目录
+### 5 往届样例目录
 
 本网页提供了4个22级样例QT作品，点击下列链接，访问具体文档。
 
