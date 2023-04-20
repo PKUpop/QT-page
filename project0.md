@@ -10,8 +10,7 @@ layout: default
 
 ### 项目演示视频
 
-<video width="1280" height="720" controls>
-  <source src="http://39.96.165.147/Projects/QT-video/project_0.mp4" type="video/mp4">
+<video src="http://39.96.165.147/Projects/QT-video/project_0.mp4" width="720" height="480" controls autoplay preload="auto">
 </video>
 
 ### 队伍成员
