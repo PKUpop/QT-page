@@ -12,7 +12,7 @@ title: 22级样例1 基于QT的植物大战僵尸复刻
 ### 项目演示视频
 
 <a href="http://39.96.165.147/Projects/QT-video/project_0.mp4">
-    <div align=center><img src="image/project1-preface.png" width="80%"></div>
+    <img src="image/project1-preface.png">
 </a>
 
 <!-- [项目演示视频链接](http://39.96.165.147/Projects/QT-video/project_0.mp4) -->
@@ -79,5 +79,5 @@ ShapedWindow是专用于新建异形窗口的自定义类，以QMainwindow为基
 ### 本项目代码下载链接
 
 <a href="https://github.com/YuIcy/PlantsVSZombies">
-    <img src="image/project1-github.png" width="60%">
+    <img src="image/project1-github.png">
 </a>
