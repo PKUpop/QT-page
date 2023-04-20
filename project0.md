@@ -9,13 +9,10 @@ layout: default
 <!-- [项目演示视频链接](http://39.96.165.147/Projects/QT-video/project_0.mp4) -->
 
 ### 项目演示视频
-<iframe 
-    src="http://39.96.165.147/Projects/QT-video/project_0.mp4"
-    width="1080" 
-    height="720" 
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
+
+<video src="http://39.96.165.147/Projects/QT-video/project_0.mp4" controls>
+  你的浏览器不支持 <code>video</code> 标签。
+</video>
 
 ### 队伍成员
 
