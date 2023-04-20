@@ -10,8 +10,7 @@ layout: default
 
 ### 项目演示视频
 
-<video src="http://39.96.165.147/Projects/QT-video/project_0.mp4" playsinline autoplay muted loop>
-</video>
+<video src="http://39.96.165.147/Projects/QT-video/project_0.mp4" onloadedmetadata="this.muted = true" playsinline autoplay muted loop controls></video>
 
 ### 队伍成员
 
