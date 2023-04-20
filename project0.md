@@ -6,9 +6,16 @@ layout: default
 
 ## 基于 qt 的植物大战僵尸复刻
 
-[项目演示视频链接](http://39.96.165.147/Projects/QT-video/project_0.mp4)
+<!-- [项目演示视频链接](http://39.96.165.147/Projects/QT-video/project_0.mp4) -->
 
-
+### 项目演示视频
+<iframe 
+    src="http://39.96.165.147/Projects/QT-video/project_0.mp4"
+    width="1080" 
+    height="720" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 
 ### 队伍成员
 
