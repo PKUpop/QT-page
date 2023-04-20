@@ -78,6 +78,6 @@ ShapedWindow是专用于新建异形窗口的自定义类，以QMainwindow为基
 
 ### 本项目代码下载链接
 
-<a href="https://github.com/YuIcy/PlantsVSZombies">
-    <img src="image/project1-github.png">
-</a>
+![](image/project1-github.png)
+
+[代码下载链接](https://github.com/YuIcy/PlantsVSZombies)
