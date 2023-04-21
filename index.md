@@ -103,7 +103,7 @@ $ xcode-select -print-path
 ![新建Qt Widgets项目](image/intro-4.png)
 3. 指定文件夹和项目名称
 ![指定文件夹和项目名称](image/intro-5.png)
-4. 指定一个源文件中的类名以及其基类(QMainWindow或QDialog...)
+4. 指定一个源文件中的类名以及其基类(后面使用hellodialog)
 ![指定一个源文件中的类名以及其基类](image/intro-6.png)
 5. 工程创建完成
 
@@ -118,6 +118,7 @@ $ xcode-select -print-path
 - hellodialog.ui程序的界面文件 (XML格式, 只能可视化编辑)
 
 **hellodialog.h 用户自定义类的头文件**
+
 ```c++
 #ifndef HELLODIALOG_H
 #define HELLODIALOG_H
