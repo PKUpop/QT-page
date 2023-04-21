@@ -1,3 +1,8 @@
+---
+layout: default
+title: 《程序设计实习》课程QT技术与样例分享
+---
+
 
 
 ## QT基本介绍
@@ -21,7 +26,7 @@
 
 ### 2 Qt开发环境安装
 
-这一部分介绍Qt开发环境在不同操作系统上的安装，主要是介绍通过**Qt在线安装程序**进行安装的过程。其他安装方式，例如直接下载完整安装包、从源代码编译Qt等方式在新版本Qt下使用的较少，有兴趣的同学可以进一步尝试。
+这一部分介绍Qt开发环境在不同操作系统上的安装，主要是介绍通过**Qt在线安装程序**进行最新的Qt6的安装的过程。其他安装方式，例如直接下载完整安装包、从源代码编译Qt等方式在新版本Qt下使用的较少，有兴趣的同学可以进一步尝试。
 
 Qt在不同的操作系统上依赖于不同的运行环境。在完成依赖环境的配置后，最新的Qt在线安装程序在不同系统上的安装过程是一致的。因此首先介绍不同操作系统上的依赖环境配置过程。
 
@@ -166,3 +171,17 @@ private:
 - [示例10 常用输入框介绍](https://pkupop.github.io/QT-page/sample10)
 - [示例11 Spinbox和Datetime edit](https://pkupop.github.io/QT-page/sample11)
 - [示例12 Slider和Dial](https://pkupop.github.io/QT-page/sample12)
+
+
+### 5 往届样例目录
+
+本网页提供了4个2022年程设课程大作业样例QT作品，点击下列链接，访问具体文档。
+
+- [基于QT的植物大战僵尸复刻](https://pkupop.github.io/QT-page/project1)
+- [砰碰砰大乱斗](https://pkupop.github.io/QT-page/project2)
+- [基于QT的DDL管理器](https://pkupop.github.io/QT-page/project3)
+- [基于QT的办公协作软件](https://pkupop.github.io/QT-page/project4)
+
+---
+
+*本网站相关所有资料，仅用于校内教学资源*
