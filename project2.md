@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 22级样例2 砰碰砰大乱斗
+title: 22年样例2 砰碰砰大乱斗
 ---
 
 

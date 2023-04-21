@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 22级样例1 基于QT的植物大战僵尸复刻
+title: 22年样例1 基于QT的植物大战僵尸复刻
 ---
 
 

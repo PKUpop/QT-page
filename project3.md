@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 22级样例3 基于QT的DDL管理器
+title: 22年样例3 基于QT的DDL管理器
 ---
 
 
