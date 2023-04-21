@@ -1,3 +1,8 @@
+---
+layout: default
+title: 《程序设计实习》课程QT技术与样例分享
+---
+
 
 
 ## QT基本介绍
@@ -169,9 +174,13 @@ private:
 
 ### 5 往届样例目录
 
-本网页提供了4个22级样例QT作品，点击下列链接，访问具体文档。
+本网页提供了4个2022年程设课程大作业样例QT作品，点击下列链接，访问具体文档。
 
 - [基于QT的植物大战僵尸复刻](https://pkupop.github.io/QT-page/project1)
 - [砰碰砰大乱斗](https://pkupop.github.io/QT-page/project2)
 - [基于QT的DDL管理器](https://pkupop.github.io/QT-page/project3)
 - [基于QT的办公协作软件](https://pkupop.github.io/QT-page/project4)
+
+---
+
+*本网站相关所有资料，仅用于校内教学资源*
