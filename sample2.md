@@ -4,7 +4,11 @@ layout: default
 
 ## 示例2 大小位置修改
 
-[讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_2.mp4)
+<!-- [讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_2.mp4) -->
+
+<a href="http://39.96.165.147/Projects/QT-video/sample_2.mp4">
+    <img src="image/sample2-preface.png">
+</a>
 
 本示例演示如何修改窗口大小、位置，并介绍qDebug
 

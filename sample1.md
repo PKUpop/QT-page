@@ -5,7 +5,11 @@ layout: default
 
 ## 示例1 创建窗口
 
-[讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_1.mp4)
+<!-- [讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_1.mp4) -->
+
+<a href="http://39.96.165.147/Projects/QT-video/sample_1.mp4">
+    <img src="image/sample1-preface.png">
+</a>
 
 本示例演示如何创建一个简单的Qt窗口
 

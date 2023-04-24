@@ -5,7 +5,11 @@ layout: default
 
 ## 示例4 信号和槽的自动关联
 
-[讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_4.mp4)
+<!-- [讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_4.mp4) -->
+
+<a href="http://39.96.165.147/Projects/QT-video/sample_4.mp4">
+    <img src="image/sample4-preface.png">
+</a>
 
 本示例将首先介绍Qt中信号槽机制，并展示如何通过设计界面，自动实现信号和槽的关联
 

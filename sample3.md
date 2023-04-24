@@ -6,7 +6,11 @@ layout: default
 
 ## 示例3 模态与非模态对话框
 
-[讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_3.mp4)
+<!-- [讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_3.mp4) -->
+
+<a href="http://39.96.165.147/Projects/QT-video/sample_3.mp4">
+    <img src="image/sample3-preface.png">
+</a>
 
 本示例演示对话框的模态与非模态设置。
 

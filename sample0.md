@@ -6,7 +6,11 @@ layout: default
 
 ## 示例0 创建Qt工程
 
-[讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_0.mp4)
+<!-- [讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_0.mp4) -->
+
+<a href="http://39.96.165.147/Projects/QT-video/sample_0.mp4">
+    <img src="image/sample0-preface.png">
+</a>
 
 本示例演示如何创建一个简单的Qt工程
 

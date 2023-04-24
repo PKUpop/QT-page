@@ -4,7 +4,11 @@ layout: default
 
 ## 示例6 编辑槽映射
 
-[讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_6.mp4)
+<!-- [讲解视频链接](http://39.96.165.147/Projects/QT-video/sample_6.mp4) -->
+
+<a href="http://39.96.165.147/Projects/QT-video/sample_6.mp4">
+    <img src="image/sample6-preface.png">
+</a>
 
 - 信号槽自动关联中，QtCreator会自动生成槽函数，但也需要自己写槽函数内容
 - 信号槽手动关联中，利用connect函数允许随意设置信号和槽的关联，但需要在类的初始化阶段写相应代码，比较麻烦
