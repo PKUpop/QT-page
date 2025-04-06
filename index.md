@@ -77,20 +77,20 @@ $ xcode-select -print-path
 
 打开下载完的安装包，首先会进入Qt账户注册/登陆界面，按照提示进行账户注册、登陆即可。
 
-![账户登陆](image/install-login.png)
+![账户登陆](image/qt1.png)
 
 ##### 2.3.3 安装文件夹选择
 
 不断选择下一步，直到进入安装文件夹选择界面，其中的安装选项直接选择"Qt 6.5 for desktop development"，因为我们需要在桌面环境下进行开发。
 
-![安装选项](image/install-select.png)
+![安装选项](image/qt2.png)
 
 
 ##### 2.3.4 组件下载与安装
 
 选择下一步，安装程序会自动下载需要使用的组件并进行安装，等待安装完成即可。
 
-![等待安装](image/install-wait.png)
+![等待安装](image/qt3.png)
 
 ##### 2.3.5 安装完成
 
