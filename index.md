@@ -183,6 +183,7 @@ private:
 - [基于QT的办公协作软件](https://pkupop.github.io/QT-page/project4)
 - [健康管理程序PKU Healthier](https://github.com/yyttt6/PKUHealthier)
 - [节点式图像处理软件](https://github.com/ruihong04/Imaging)
+- [魔兽可视化-Debug辅助](https://github.com/RickyRui111/WorldOfWarcraftDebug)
   
 
 ---
