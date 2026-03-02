@@ -194,7 +194,6 @@ private:
 - [几何画板](https://github.com/Liu-Yuanyi/GeoTHU)
 - [Petal 项目 - 你的桌面萌宠伴侣](https://github.com/Hsch22/Petaler)
 - [北京大学智能选课系统](https://github.com/Neontr1City/Course-Elective-Project)
-- 
   
 
 ---
