@@ -175,7 +175,7 @@ private:
 
 ### 5 往届样例目录
 
-本网页提供了4个2022年程设课程大作业样例QT作品，点击下列链接，访问具体文档。
+本网页提供了多个往年程设课程大作业优秀QT作品，点击下列链接，访问具体文档。
 
 - [基于QT的植物大战僵尸复刻](https://pkupop.github.io/QT-page/project1)
 - [砰碰砰大乱斗](https://pkupop.github.io/QT-page/project2)
@@ -184,6 +184,17 @@ private:
 - [健康管理程序PKU Healthier](https://github.com/yyttt6/PKUHealthier)
 - [节点式图像处理软件](https://github.com/ruihong04/Imaging)
 - [魔兽可视化-Debug辅助](https://github.com/RickyRui111/WorldOfWarcraftDebug)
+- [QChat—基于Qt的聊天交友软件](https://github.com/doralyyyyy/QChat)
+- [NeverJudge 简易代码编辑器](https://github.com/LeoDreamer2004/Never-Judge)
+- [QTune视唱练耳](https://github.com/Zheyu-Shen/QTune)
+- [DeskPet桌面宠物](https://github.com/lh314-pku/Q_le_tt_DeskPet/tree/main)
+- [足迹 - 旅行记录与分享程序](https://github.com/call123456789/footprint_app)
+- [燕园花册](https://github.com/wangxy06/39-PKUFlowerMap)
+- [云实验室](https://github.com/xisenal/Qt_teamwork)
+- [几何画板](https://github.com/Liu-Yuanyi/GeoTHU)
+- [Petal 项目 - 你的桌面萌宠伴侣](https://github.com/Hsch22/Petaler)
+- [北京大学智能选课系统](https://github.com/Neontr1City/Course-Elective-Project)
+- 
   
 
 ---
