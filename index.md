@@ -177,23 +177,44 @@ private:
 
 本网页提供了多个往年程设课程大作业优秀QT作品，点击下列链接，访问具体文档。
 
-- [基于QT的植物大战僵尸复刻](https://pkupop.github.io/QT-page/project1)
-- [砰碰砰大乱斗](https://pkupop.github.io/QT-page/project2)
-- [基于QT的DDL管理器](https://pkupop.github.io/QT-page/project3)
-- [基于QT的办公协作软件](https://pkupop.github.io/QT-page/project4)
-- [健康管理程序PKU Healthier](https://github.com/yyttt6/PKUHealthier)
-- [节点式图像处理软件](https://github.com/ruihong04/Imaging)
-- [魔兽可视化-Debug辅助](https://github.com/RickyRui111/WorldOfWarcraftDebug)
-- [QChat—基于Qt的聊天交友软件](https://github.com/doralyyyyy/QChat)
-- [NeverJudge 简易代码编辑器](https://github.com/LeoDreamer2004/Never-Judge)
-- [QTune视唱练耳](https://github.com/Zheyu-Shen/QTune)
-- [DeskPet桌面宠物](https://github.com/lh314-pku/Q_le_tt_DeskPet/tree/main)
-- [足迹 - 旅行记录与分享程序](https://github.com/call123456789/footprint_app)
-- [燕园花册](https://github.com/wangxy06/39-PKUFlowerMap)
-- [云实验室](https://github.com/xisenal/Qt_teamwork)
-- [几何画板](https://github.com/Liu-Yuanyi/GeoTHU)
-- [Petal 项目 - 你的桌面萌宠伴侣](https://github.com/Hsch22/Petaler)
-- [北京大学智能选课系统](https://github.com/Neontr1City/Course-Elective-Project)
+- 2025年
+  - [QChat—基于Qt的聊天交友软件](https://github.com/doralyyyyy/QChat)
+    - 项目成员： 张嵩仁	杨锐
+  - [NeverJudge 简易代码编辑器](https://github.com/LeoDreamer2004/Never-Judge)
+    - 项目成员： 原梓轩	吴杰稀	许畅
+  - [QTune视唱练耳](https://github.com/Zheyu-Shen/QTune)
+    - 项目成员： 沈哲语	陈旃旎	段可峥
+  - [DeskPet桌面宠物](https://github.com/lh314-pku/Q_le_tt_DeskPet/tree/main)
+    - 项目成员： 李睿钦	李瑞祥	李思源
+  - [足迹 - 旅行记录与分享程序](https://github.com/call123456789/footprint_app)
+    - 项目成员： 陈少龙	杨博涵	郑富元
+  - [燕园花册](https://github.com/wangxy06/39-PKUFlowerMap)
+    - 项目成员： 方禹铭	王欣语	宋佳瑛
+  - [云实验室](https://github.com/xisenal/Qt_teamwork)
+    - 项目成员： 杨家铭	王韻晰	李昊润
+  - [几何画板](https://github.com/Liu-Yuanyi/GeoTHU)
+    - 项目成员： 陈羿桥	丁彦辰	刘小康
+  - [Petal 项目 - 你的桌面萌宠伴侣](https://github.com/Hsch22/Petaler)
+    - 项目成员： 胡思成	邢轲越	杨子中
+  - [北京大学智能选课系统](https://github.com/Neontr1City/Course-Elective-Project)
+    - 项目成员： 杨天琢	徐健峰	郑晓霏
+- 2024年
+  - [健康管理程序PKU Healthier](https://github.com/yyttt6/PKUHealthier)
+    - 项目成员： 董宇骐	张家轩 刘明睿
+  - [节点式图像处理软件](https://github.com/ruihong04/Imaging)
+    - 项目成员： 沈睿弘 陈睿哲 高美珺
+  - [魔兽可视化-Debug辅助](https://github.com/RickyRui111/WorldOfWarcraftDebug)
+- 2022年
+  - [基于QT的植物大战僵尸复刻](https://pkupop.github.io/QT-page/project1)
+    - 项目成员： 郝昕 马子豪 彭毅诚
+  - [砰碰砰大乱斗](https://pkupop.github.io/QT-page/project2)
+    - 项目成员： 汪逸阳 徐浩哲 苏驰
+  - [基于QT的DDL管理器](https://pkupop.github.io/QT-page/project3)
+    - 项目成员： 刘胜与 谢安喆
+  - [基于QT的办公协作软件](https://pkupop.github.io/QT-page/project4)
+    - 项目成员： 金及凯 汪洋 潘世豪
+
+
   
 
 ---
