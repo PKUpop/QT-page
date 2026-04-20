@@ -179,8 +179,6 @@ private:
 本网页提供了多个往年程设课程大作业优秀QT作品，点击下列链接，访问具体文档。
 
 - 2025年
-  - [QChat—基于Qt的聊天交友软件](https://github.com/doralyyyyy/QChat)
-    - 项目成员： 张嵩仁	杨锐
   - [NeverJudge 简易代码编辑器](https://github.com/LeoDreamer2004/Never-Judge)
     - 项目成员： 原梓轩	吴杰稀	许畅
   - [QTune视唱练耳](https://github.com/Zheyu-Shen/QTune)
