@@ -171,6 +171,7 @@ private:
 - [示例10 常用输入框介绍](https://pkupop.github.io/QT-page/sample10)
 - [示例11 Spinbox和Datetime edit](https://pkupop.github.io/QT-page/sample11)
 - [示例12 Slider和Dial](https://pkupop.github.io/QT-page/sample12)
+- [示例13 综合示例-反应力测试小游戏](https://pkupop.github.io/QT-page/sample13)
 
 
 ### 5 往届样例目录
@@ -203,14 +204,11 @@ private:
     - 项目成员： 董宇骐	张家轩 刘明睿
   - [节点式图像处理软件](https://github.com/ruihong04/Imaging)
     - 项目成员： 沈睿弘 陈睿哲 高美珺
-  - [魔兽可视化-Debug辅助](https://github.com/RickyRui111/WorldOfWarcraftDebug)
 - 2022年
   - [基于QT的植物大战僵尸复刻](https://pkupop.github.io/QT-page/project1)
     - 项目成员： 郝昕 马子豪 彭毅诚
   - [砰碰砰大乱斗](https://pkupop.github.io/QT-page/project2)
     - 项目成员： 汪逸阳 徐浩哲 苏驰
-  - [基于QT的DDL管理器](https://pkupop.github.io/QT-page/project3)
-    - 项目成员： 刘胜与 谢安喆
   - [基于QT的办公协作软件](https://pkupop.github.io/QT-page/project4)
     - 项目成员： 金及凯 汪洋 潘世豪
 
