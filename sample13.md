@@ -3,8 +3,9 @@ layout: default
 ---
 
 ## 综合示例 反应力测试小游戏
+<!-- [讲解视频链接](http://39.96.165.147/Projects/QT-video/project_13.mp4) -->
 
-<a href="http://39.96.165.147/Projects/QT-video/sample_13.mp4">
+<a href="http://39.96.165.147/Projects/QT-video/project_13.mp4">
     <img src="image/cover13.png">
 </a>
 
